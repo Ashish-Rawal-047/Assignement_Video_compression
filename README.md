@@ -98,8 +98,6 @@ Push to your branch only. Do not touch main.
 
 ---
 
-## Bonus
 
-Auto-calibrate the motion threshold from the first 30 seconds of the video. Different cameras at different lighting levels need different thresholds — hardcoding 0.05 for every camera is fragile.
 
 *Sentio Mind · 2026*
