@@ -2,7 +2,7 @@
 **Sentio Mind · POC Assignment · Project 2**
 
 GitHub: https://github.com/Sentiodirector/Assignement_Video_compression.git
-Branch: FirstName_LastName_RollNumber
+Branch: Ashish_Rawal_230230
 
 ---
 
@@ -88,11 +88,11 @@ opencv-python==4.9.0   numpy==1.26.4   imagehash==4.3.1   Pillow==10.3.0
 
 | # | File | What |
 |---|------|------|
-| 1 | `solution.py` | Working script |
-| 2 | `compressed_output.mp4` | Compressed video |
+| 1 | `video_compression.py` | Working script |
+| 2 | `Ashish_Rawal_230230.mp4` | Compressed video |
 | 3 | `compression_report.html` | Report with storyboard |
-| 4 | `segments_kept.json` | Segment log matching schema |
-| 5 | `demo.mp4` | Screen recording under 2 min |
+| 4 | `video_compression.json` | Segment log matching schema |
+| 5 | `demo_video.txt` | Screen recording under 2 min |
 
 Push to your branch only. Do not touch main.
 
